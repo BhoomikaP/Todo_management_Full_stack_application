@@ -22,7 +22,7 @@ This project leverages the following technologies:
 - **Spring Data JPA**: Simplifies database access and provides a high-level abstraction for data persistence.
 - **HTML/CSS**: Frontend markup and styling for user interface design.
 - **JavaScript**: Frontend scripting language for interactivity and dynamic content.
-- **MySQL/PostgreSQL**: Relational database management system for storing todo data.
+- **MySQL**: Relational database management system for storing todo data.
 
 
 ## Acknowledgements
