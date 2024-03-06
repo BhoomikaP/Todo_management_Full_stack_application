@@ -10,7 +10,6 @@ This project is a full stack web application designed to help you manage your da
 - **Read**: View your existing todos, sorted by priority or due date, to stay organized and on track.
 - **Update**: Edit and modify existing todos as your tasks evolve or priorities change.
 - **Delete**: Remove completed or outdated todos to keep your list clean and clutter-free.
-- **Responsive Design**: Enjoy a seamless experience across devices, thanks to the application's responsive design.
 
 ## Technologies Used
 
