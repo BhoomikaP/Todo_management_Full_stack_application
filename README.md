@@ -1,5 +1,7 @@
-![project logo](./preview.jpg)
-# Todo Management Full Stack Application
+
+# Todo Management Full Stack Application   
+
+![project logo](./Todo_logo.png)
 
 Welcome to the Todo Management Full Stack Application! 🚀
 
